@@ -1,0 +1,22 @@
+html {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(rgb(117, 117, 255), rgb(16, 16, 255));
+  overflow: hidden;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  width: 30%;
+  height: 50%;
+  background: rgba(255, 255, 255, 0.2);
+}
