@@ -16,7 +16,9 @@ body {
   display: flex;
   justify-content: center;
   align-self: center;
-  width: 30%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  width: 44rem;
   height: 50%;
   background: rgba(255, 255, 255, 0.2);
 }
